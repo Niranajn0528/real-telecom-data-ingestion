@@ -1,0 +1,8 @@
+Event ID,Timestamp,Network Element,Location,Alarm,Severity,Status
+EVT-001,2026-07-22 10:15:00,UPF,Bangalore,PFCP Association Failure,Critical,Open
+EVT-002,2026-07-22 10:20:00,SMF,Hyderabad,N4 Timeout,High,Open
+EVT-003,2026-07-22 10:25:00,AMF,Chennai,Registration Reject,Medium,Open
+EVT-004,2026-07-22 10:30:00,UDM,Mumbai,Subscriber Lookup Failure,Low,Open
+EVT-005,2026-07-22 10:40:00,PCF,Delhi,Policy Failure,Medium,Open
+EVT-006,2026-07-22 10:55:00,AUSF,Pune,Authentication Timeout,High,Open
+EVT-007,2026-07-22 11:10:00,gNB,Bangalore,Radio Link Failure,Critical,Open

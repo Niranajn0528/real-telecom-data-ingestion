@@ -1,0 +1,11 @@
+{
+  "event_id": "EVT-001",
+  "timestamp": "2026-07-22T10:15:00Z",
+  "network_element": "UPF",
+  "location": "Bangalore",
+  "alarm": "PFCP Association Failure",
+  "severity": "Critical",
+  "status": "Open",
+  "source": "5G Core",
+  "vendor": "Open5GS"
+}

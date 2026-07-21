@@ -1,0 +1,13 @@
+{
+  "event_id": "EVT-001",
+  "network_element": "UPF",
+  "failure_domain": "Core Network",
+  "alarm": "PFCP Association Failure",
+  "severity": "Critical",
+  "priority": "P1",
+  "location": "Bangalore",
+  "source_system": "Open5GS",
+  "validated": true,
+  "normalized": true,
+  "ready_for_ai": true
+}
